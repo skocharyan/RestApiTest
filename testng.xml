@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="GetTest" enabled="false">
+        <classes>
+            <class name="methodTest.GetMethodTest">
+                <methods>
+                    <include name="getMethodTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name = "postMethodTest" enabled="false">
+        <parameter name="paramName" value="Chrome"></parameter>
+        <classes>
+            <class name="methodTest.PostMethodTest">
+                <methods>
+                    <include name="postMethod"/>
+                    <include name="responseToString"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="JiraApiTest">
+        <classes>
+            <class name="methodTest.Jira_Create_Bug"></class>
+        </classes>
+    </test>
+        
+</suite>

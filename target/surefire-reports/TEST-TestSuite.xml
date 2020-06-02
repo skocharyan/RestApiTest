@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="5.865" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\Lenovo\Desktop\reatAPI\target\test-classes;C:\Users\Lenovo\Desktop\reatAPI\target\classes;C:\Users\Lenovo\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar;C:\Users\Lenovo\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar;C:\Users\Lenovo\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar;C:\Users\Lenovo\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar;C:\Users\Lenovo\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\Lenovo\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\Lenovo\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Lenovo\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Lenovo\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar;C:\Users\Lenovo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Lenovo\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\Lenovo\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar;C:\Users\Lenovo\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar;C:\Users\Lenovo\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\Lenovo\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\Lenovo\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Lenovo\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\Lenovo\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\Lenovo\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Lenovo\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\Lenovo\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\Lenovo\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar;C:\Users\Lenovo\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.2\log4j-api-2.13.2.jar;C:\Users\Lenovo\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.2\log4j-core-2.13.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Yerevan"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\java\jdk14.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\Lenovo\AppData\Local\Temp\surefire6216033668424989445\surefirebooter12806220043989712332.jar C:\Users\Lenovo\AppData\Local\Temp\surefire6216033668424989445 2020-06-01T19-35-32_023-jvmRun1 surefire2855915282843099314tmp surefire_08345375307883130807tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Lenovo\Desktop\reatAPI\target\test-classes;C:\Users\Lenovo\Desktop\reatAPI\target\classes;C:\Users\Lenovo\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar;C:\Users\Lenovo\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar;C:\Users\Lenovo\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar;C:\Users\Lenovo\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar;C:\Users\Lenovo\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\Lenovo\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\Lenovo\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Lenovo\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Lenovo\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar;C:\Users\Lenovo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Lenovo\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\Lenovo\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar;C:\Users\Lenovo\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar;C:\Users\Lenovo\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar;C:\Users\Lenovo\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\Lenovo\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\Lenovo\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Lenovo\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\Lenovo\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\Lenovo\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Lenovo\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\Lenovo\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\Lenovo\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar;C:\Users\Lenovo\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.2\log4j-api-2.13.2.jar;C:\Users\Lenovo\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.2\log4j-core-2.13.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Lenovo"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-03-17"/>
+    <property name="java.home" value="C:\java\jdk14.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Lenovo\Desktop\reatAPI"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Lenovo\AppData\Local\Temp\surefire6216033668424989445\surefirebooter12806220043989712332.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="14+36-1461"/>
+    <property name="user.name" value="Lenovo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Lenovo\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Lenovo\AppData\Local\Temp\"/>
+    <property name="java.version" value="14"/>
+    <property name="user.dir" value="C:\Users\Lenovo\Desktop\reatAPI"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\java\jdk14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\apache-maven-3.6.3-bin\bin;C:\java\jdk14.0.1\bin;C:\Program Files (x86)\IDEMIA\AWP\Dlls;C:\Program Files\IDEMIA\AWP\Dlls;C:\Users\Lenovo\Documents\Webdrivers;C:\Users\Lenovo\AppData\Local\Android\Sdk\tools\bin;C:\Users\Lenovo\AppData\Local\Android\Sdk\tools;C:\Users\Lenovo\AppData\Local\Android\Sdk\platforms;C:\Users\Lenovo\AppData\Local\Android\Sdk\emulator;C:\Program Files\nodejs;C:\apache-maven-3.6.3\bin;C:\Program Files (x86)\Google\Chrome\Application;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.3\bin;;C:\JetBrains\IntelliJ IDEA 2019.3.3\bin;;C:\Users\Lenovo\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="14+36-1461"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="createBug" classname="methodTest.Jira_Create_Bug" time="3.177"/>
+  <testcase name="addCommentToIssue" classname="methodTest.Jira_Create_Bug" time="0.898"/>
+  <testcase name="deleteIssue" classname="methodTest.Jira_Create_Bug" time="0.13"/>
+</testsuite>
